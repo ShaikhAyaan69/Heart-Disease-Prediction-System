@@ -191,15 +191,15 @@ if selected == "About Us":
 
     
 
-    st.markdown('<p class="big-font1"> Group 08',unsafe_allow_html=True)
+    st.markdown('<p class="big-font1"> Group 16',unsafe_allow_html=True)
 
-    st.markdown('<p class="big-font2"> Rahul Jadhav ',unsafe_allow_html=True)
+    st.markdown('<p class="big-font2"> Khan Moin Hayat ',unsafe_allow_html=True)
 
-    st.markdown('<p class="big-font2"> Omkar Rokade ',unsafe_allow_html=True)
+    st.markdown('<p class="big-font2"> Shaikh Ayaan Shakil ',unsafe_allow_html=True)
 
-    st.markdown('<p class="big-font2"> Shivangi Shelke ',unsafe_allow_html=True)
+    st.markdown('<p class="big-font2"> Kanade Samruddhi ',unsafe_allow_html=True)
 
-    st.markdown('<p class="big-font2"> Rutuja Bhor ',unsafe_allow_html=True)
+
 
 
 
