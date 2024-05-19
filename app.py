@@ -193,11 +193,11 @@ if selected == "About Us":
 
     st.markdown('<p class="big-font1"> Group 16',unsafe_allow_html=True)
 
-    st.markdown('<p class="big-font2"> Khan Moin Hayat ',unsafe_allow_html=True)
+    st.markdown('<p class="big-font2"> Khan Moin Hayat B180844232 ',unsafe_allow_html=True)
 
-    st.markdown('<p class="big-font2"> Shaikh Ayaan Shakil ',unsafe_allow_html=True)
+    st.markdown('<p class="big-font2"> Shaikh Ayaan Shakil B190844237 ',unsafe_allow_html=True)
 
-    st.markdown('<p class="big-font2"> Kanade Samruddhi ',unsafe_allow_html=True)
+    st.markdown('<p class="big-font2"> Kanade Samruddhi B190844230 ',unsafe_allow_html=True)
 
 
 
